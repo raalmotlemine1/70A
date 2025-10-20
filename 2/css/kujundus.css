@@ -1,0 +1,21 @@
+#esimene {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%; 
+  margin: 50px; 
+}
+
+.teine {
+    text-align: left;
+    border: dotted;
+}
+
+table {
+     border-collapse: collapse;
+
+}
+
+td {
+    border: solid green;
+}
